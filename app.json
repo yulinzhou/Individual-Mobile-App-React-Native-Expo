@@ -1,0 +1,12 @@
+{
+  "name": "TestBowlApp",
+  "displayName": "TestBowlApp",
+"expo": {
+    "sdkVersion": "21.0.0"
+  }
+
+}
+
+
+
+
